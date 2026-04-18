@@ -27,7 +27,7 @@ Inspired by https://noisycarlos.com/project/how-to-turn-your-computer-on-and-off
 
 ## Examples:
 
-<img alt="PCB" src="https://github.com/UndercoverComputing/pc-remote/blob/94a4ea6069c24e987936fb80a40b08b0e83ab6db/PCB.jpg"/>
+<img height="500px" alt="PCB" src="https://github.com/UndercoverComputing/pc-remote/blob/94a4ea6069c24e987936fb80a40b08b0e83ab6db/PCB.jpg"/>
 
-<img alt="Website" src="https://github.com/UndercoverComputing/pc-remote/blob/94a4ea6069c24e987936fb80a40b08b0e83ab6db/Web_UI.jpg"/>
+<img height="500px" alt="Website" src="https://github.com/UndercoverComputing/pc-remote/blob/94a4ea6069c24e987936fb80a40b08b0e83ab6db/Web_UI.jpg"/>
 
